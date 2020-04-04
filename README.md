@@ -1,4 +1,9 @@
 # LineCodingVis
-I've done a small piece of work on generating the time-domain digital signal for various line coding techniques.
-These Include the three major techniques, viz, Unipolar, Polar and Bipolar. I am still left to include MLT3 and various
-scrabling techniques which exist, to make it more versatile. I will keep updating it as I progress.
+
+Language Used - Python3
+Libraries or Modules Requireed- Matplotlib, Seaborn.
+
+Input - A sequence consisting of 0's and 1's or bits.
+      - Choice as to which line coding technique is chosen by the user.
+
+Output - The specific time domain digital signal characterized by the input.
